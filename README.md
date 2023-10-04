@@ -12,4 +12,5 @@ The dataset is divided into two parts, train and test (Request for access is req
 The directories in the notebook file are adjusted according to the needs.
 
 ## Output project
-Perbandingan hasil evaluasi dari ketiga arsitektur yang digunakan
+### VGG16 Confusion Matrix
+![Tekbio1](https://github.com/Ares0098/Klasifikasi-Tumor-Otak-menggunakan-Arsitektur-Deep-Learning/assets/87215213/9e7341d4-6917-4629-9b0a-aaafbbdbb92d)
