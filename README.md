@@ -6,10 +6,10 @@ labels: normal and abnormal.
 ## Dataset
 The dataset can be accessed at this link: https://drive.google.com/drive/folders/1Z2bIM-roinJbA_1DYgaKqW0ntm-X0g7i?usp=sharing 
 
-the dataset is divided into two parts, train and test (Request for access is required).
+The dataset is divided into two parts, train and test (Request for access is required).
 
-## Arsitektur
-Arsitektur yang digunakan adalah VGG16, ResNet50 dan Xception
+## Directory
+The directories in the notebook file are adjusted according to the needs.
 
 ## Output project
 Perbandingan hasil evaluasi dari ketiga arsitektur yang digunakan
