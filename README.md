@@ -5,6 +5,7 @@ labels: normal and abnormal.
 
 ## Dataset
 The dataset can be accessed at this link: https://drive.google.com/drive/folders/1Z2bIM-roinJbA_1DYgaKqW0ntm-X0g7i?usp=sharing 
+
 the dataset is divided into two parts, train and test (Request for access is required).
 
 ## Arsitektur
